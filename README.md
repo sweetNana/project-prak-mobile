@@ -14,4 +14,5 @@ basis data menggunakan:
 - hive untuk menambahkan barang ke dalam cart
 
 pemanggilan API menggunakan Dio dalam penggunaan HTTP Client
-/nproduk API menggunakan https://fakestoreapi.com/products
+
+produk API menggunakan https://fakestoreapi.com/products
