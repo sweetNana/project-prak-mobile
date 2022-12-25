@@ -5,7 +5,7 @@ Created by:
 - 124200064 Farrel Cahyo A
 
 project ini buat untuk memenuhi tugas akhir praktikum pemrograman mobile
-di dalam project terdapat beberapa library sepert:
+di dalam project terdapat beberapa library seperti:
 - getX
 - sizer
 
