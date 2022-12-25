@@ -1,8 +1,8 @@
 # project-prak-mobile
 
 Created by:
-124200069 Nahdhiyah
-124200064 Farrel Cahyo A
+- 124200069 Nahdhiyah
+- 124200064 Farrel Cahyo A
 
 project ini buat untuk memenuhi tugas akhir praktikum pemrograman mobile
 di dalam project terdapat beberapa library sepert:
